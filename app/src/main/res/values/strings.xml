@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>더미 데이터 1</item>
+        <item>더미 데이터 2</item>
+        <item>더미 데이터 3</item>
+        <item>더미 데이터 4</item>
+        <item>더미 데이터 5</item>
+        <item>더미 데이터 6</item>
+        <item>더미 데이터 7</item>
+        <item>더미 데이터 8</item>
+        <item>더미 데이터 9</item>
+        <item>더미 데이터 10</item>
+        <item>더미 데이터 11</item>
+        <item>더미 데이터 12</item>
+        <item>더미 데이터 13</item>
+        <item>더미 데이터 14</item>
+        <item>더미 데이터 15</item>
+    </string-array>
+</resources>
