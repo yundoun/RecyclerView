@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">RecyclerView</string>
+
     <string-array name="items">
         <item>더미 데이터 1</item>
         <item>더미 데이터 2</item>
